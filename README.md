@@ -23,3 +23,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ### alpha version for testing on hosting - [http://gooseisnotabird.ru](http://gooseisnotabird.ru/)
+<img src="https://github.com/gooseisnotabird/my-costs-app/blob/main/src/mycosts.jpg" alt="picture">
