@@ -22,4 +22,4 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-### alpha version for testing on hosting - [[gooseisnotabird.ru](http://gooseisnotabird.ru/)](http://gooseisnotabird.ru/)
+### alpha version for testing on hosting - [http://gooseisnotabird.ru](http://gooseisnotabird.ru/)
