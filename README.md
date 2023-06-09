@@ -20,3 +20,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### alpha version for testing on hosting - [http://gooseisnotabird.ru](http://gooseisnotabird.ru/)
